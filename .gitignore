@@ -1,0 +1,8 @@
+/.idea/*
+/.well-known/*
+/cgi-bin/*
+.ftpquota
+/site_images/*
+/classes/class.db_connect.php
+.htaccess
+error_log
